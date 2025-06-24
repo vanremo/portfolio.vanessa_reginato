@@ -20,8 +20,8 @@ Sou estudante de Engenharia de Software e apaixonada por tecnologia, educação 
 | Projeto                    | Descrição                                        | Acesso |
 |----------------------------|--------------------------------------------------|--------|
 | *Atrativos Turísticos*   | Página com galeria de imagens e informações     | [Visualizar](https://vanremo.github.io/atrativos-turisticos/) |
-| *Site de Casamento*      | Projeto de site de convite com formulário       | [Visualizar](https://vanremo.github.io/site-casamento/) |
-| *Centro Paula Souza*     | Página institucional modelo                     | [Visualizar](https://vanremo.github.io/centro-paula-sousa/) |
+| *Site de Casamento*      | Projeto de site de convite com formulário       | [Visualizar](https://vanremo.github.io/casamento/) |
+| *Centro Paula Souza*     | Página institucional modelo                     | [Visualizar](https://vanremo.github.io/centropaulasousa/) |
 | (em breve)               | Novos projetos serão adicionados...             | –      |
 
 ---
