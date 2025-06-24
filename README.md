@@ -14,7 +14,7 @@ Sou estudante de Engenharia de Software e apaixonada por tecnologia, educação 
 - 🎓 Formação: Engenharia de Software (Anhanguera) + Técnico em Desenvolvimento de Sistemas (ETEC) + Gestão de TI (Unicid)
 - 🚀 Em constante aprendizado e prática
 
-
+---
 ## 📁 Projetos em destaque
 
 | Projeto                    | Descrição                                        | Acesso |
